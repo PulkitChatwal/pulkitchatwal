@@ -40,7 +40,7 @@
 
 </td>
 <td width="38%" valign="top">
-  <img src="./coding.svg" width="100%" alt="coding"/>
+  <img src="./coding.gif" width="100%" alt="coding"/>
 </td>
 </tr>
 </table>
