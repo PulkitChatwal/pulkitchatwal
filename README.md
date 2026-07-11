@@ -17,7 +17,8 @@
 
 </div>
 
----
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ====================== ABOUT ====================== -->
 ###  &nbsp; About Me
@@ -38,7 +39,8 @@ class PulkitChatwal:
 
 >  I work at both ends of the pipeline &mdash; **publishing peer-reviewed NLP research** and **shipping production AI products** end-to-end. From fine-tuning open-weight LLMs to serving them at low latency, I turn research ideas into systems that ship.
 
----
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ====================== TECH STACK ====================== -->
 ###  &nbsp; Tech Stack
@@ -68,7 +70,8 @@ class PulkitChatwal:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ====================== FEATURED PRODUCTS & PROJECTS ====================== -->
 ###  &nbsp; Featured Products &amp; Projects
@@ -112,7 +115,8 @@ Turning research papers into digestible, listenable content.
 </tr>
 </table>
 
----
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ====================== RESEARCH ====================== -->
 ###  &nbsp; Research Highlights &nbsp;<sub>`9 publications`</sub>
@@ -125,26 +129,26 @@ Turning research papers into digestible, listenable content.
 
 <sub> Full list on [Google Scholar](https://scholar.google.com/)</sub>
 
----
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<!-- ====================== GITHUB STATS ====================== -->
-###  &nbsp; GitHub Stats
+<!-- ====================== GITHUB STATS (FIXED + RELIABLE) ====================== -->
+###  &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PulkitChatwal&show_icons=true&count_private=true&hide_border=true&title_color=1A6FB5&icon_color=0F4C81&text_color=808080&bg_color=00000000" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitChatwal&hide_border=true&stroke=1A6FB5&ring=0F4C81&fire=EE4C2C&currStreakLabel=1A6FB5&background=00000000" alt="streak"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PulkitChatwal&theme=github_dark"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitChatwal&layout=compact&hide_border=true&title_color=1A6FB5&text_color=808080&bg_color=00000000&langs_count=8" alt="top langs"/>
+<img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PulkitChatwal&theme=github_dark"/>
+<img height="192" src="https://streak-stats.demolab.com?user=PulkitChatwal&hide_border=true&background=0D1117&stroke=1a6fb5&ring=6dd5ed&fire=EE4C2C&currStreakLabel=6dd5ed&sideLabels=9fb6d6&dates=6b7a90&sideNums=9fb6d6&currStreakNum=ffffff&titleColor=1a6fb5"/>
 
-</div>
-
-<!-- ====================== TROPHIES ====================== -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PulkitChatwal&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=0F4C81" alt="trophies"/>
+<img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PulkitChatwal&theme=github_dark"/>
+<img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PulkitChatwal&theme=github_dark"/>
 
 </div>
+
+<!-- ====================== ANIMATED CONTRIBUTION GRAPH ====================== -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitChatwal&bg_color=0D1117&color=6dd5ed&line=1a6fb5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <!-- ====================== SNAKE ANIMATION ====================== -->
 <div align="center">
@@ -153,22 +157,5 @@ Turning research papers into digestible, listenable content.
 
 </div>
 
----
-
 <!-- ====================== FOOTER ====================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,50:1a6fb5,100:0F4C81&height=120&section=footer&text=Let's%20build%20something%20intelligent&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="footer"/>
-
-<!--
-**PulkitChatwal/pulkitchatwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
