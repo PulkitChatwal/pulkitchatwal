@@ -23,19 +23,27 @@
 <!-- ====================== ABOUT ====================== -->
 ###  &nbsp; About Me
 
-```python
-class PulkitChatwal:
-    def __init__(self):
-        self.role         = "AI Engineer & NLP Researcher"
-        self.company      = "Srinergy.ai  (Founding Engineer @ Voxx Agent)"
-        self.education    = "IDD (B.Tech + M.Tech), CSE & AI @ RGIPT"
-        self.publications = 9   # financial safety · multilingual NLP · multimodal
-        self.focus        = ["LLM fine-tuning", "RAG systems",
-                             "model serving", "LLM safety & evaluation"]
+<table>
+<tr>
+<td width="62%" valign="top">
 
-    def currently_building(self):
-        return "Voice AI agents in production + LLM safety benchmarks"
+```python
+  class PulkitChatwal:
+      def __init__(self):
+          self.role         = "AI Engineer & NLP Researcher"
+          self.company      = "Srinergy.ai (Founding Engineer @ Voxx Agent)"
+          self.education    = "IDD (B.Tech + M.Tech), CSE & AI @ RGIPT"
+          self.publications = 9
+          self.focus        = ["LLM fine-tuning", "RAG systems",
+                               "model serving", "LLM safety"]
 ```
+
+</td>
+<td width="38%" valign="top">
+  <img src="./coding.svg" width="100%" alt="coding"/>
+</td>
+</tr>
+</table>
 
 >  I work at both ends of the pipeline &mdash; **publishing peer-reviewed NLP research** and **shipping production AI products** end-to-end. From fine-tuning open-weight LLMs to serving them at low latency, I turn research ideas into systems that ship.
 
